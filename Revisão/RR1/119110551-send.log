@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-16T10:17:45.304-0300</date>
+  <logger>HENRIQUE LEMOS LEITE</logger>
+  <level>FINE</level>
+  <message>File 119110551-HENRIQUE LEMOS LEITE.zip was received. It was sent by HENRIQUE LEMOS LEITE from IP 192.168.0.124 at 16-09-2020 10*17*45</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-22T19:29:47.853-0300</date>
+  <logger>HENRIQUE LEMOS LEITE</logger>
+  <level>FINE</level>
+  <message>File 119110551-HENRIQUE LEMOS LEITE.zip was received. It was sent by HENRIQUE LEMOS LEITE from IP 192.168.0.124 at 22-09-2020 19*29*47</message>
+</record>
